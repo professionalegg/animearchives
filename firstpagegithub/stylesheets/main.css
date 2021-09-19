@@ -1,0 +1,20 @@
+ html {
+    background: #FCCDD6;
+ }
+ h1 {
+ 	color: #373743;
+ 	border: 5px double aquamarine;
+   font-family: nunito;
+ }
+ nav {
+   color: #373743;
+   font-family: nunito;
+ }
+ h2 {
+   color: #373743;
+   font-family: nunito;
+ }
+p {
+   color: #373743;
+   font-family: nunito;
+}
